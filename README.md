@@ -10,3 +10,5 @@
 - OS: Ubuntu 20.04 LTS
 - Secondary disk size: 500 GB
 - VM Flavor: 8 CPU x 32GB
+
+[Databand Download VPN must be ON](https://w3south-limited-use.cpc.ibm.com/software/xl/download/ticket.wss)
